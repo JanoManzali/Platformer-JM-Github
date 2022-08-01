@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: 90c71d7c245a56c47b4d13291dc85438
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fly recolor 6 color_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 238
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e080cf111ecc254d9906d077d6cd613
+      internalID: -1109138358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 237
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3513b123199068e4ca24bc381fb1192f
+      internalID: 534514091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 236
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98209a054d0ff74a8ded490add02169
+      internalID: -1636507529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 239
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280cd52c3483b194fb1f75fa3529f9f3
+      internalID: -315164767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 240
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958a7c8866ee82c4b99b6d42ecb884b8
+      internalID: 2054347938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 239
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0c6198a94c44c4c808ef556ebc637f
+      internalID: -1345017929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 239
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1c8cdb02044384190b69c94dffa219
+      internalID: -424096504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 214
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb36ab8210645e46a23330dc50b8a42
+      internalID: -199642760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_9
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 213
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792102a469ed6114587dbd72bd625b88
+      internalID: -382302409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 212
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbf89848059b5047aa16c1aa1c223fa
+      internalID: 1105067948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_11
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 215
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2112c33c22453524188a682c2a6eb4d9
+      internalID: -1892847945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 216
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fe952125e863b46a9dd4dcd0a583d1
+      internalID: 1536052718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 215
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f79fb7f8134dbd449d4d548791082d3
+      internalID: 588341733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 215
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d65afc58f4c4f4fa64b09293f4326a
+      internalID: -1788207439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd41c70ff2cf6141ab42a1723c76473
+      internalID: -1867161785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 160
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c5b0482e8121c49843c457e1352388
+      internalID: 1020039016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f5edd8e8704674c8145843d5ce4988
+      internalID: 2071980469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 162
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ab11237f1526b429e2aa8a8298ae7d
+      internalID: 2103540846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 163
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ce2f794095c00458ac5d69aca5c9bf
+      internalID: 969166077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 162
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eee472139157e045979072261ca6433
+      internalID: -122790463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 162
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bca4e525e6c5647972c67719cc955f
+      internalID: 1109679857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 115
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807d006aac0f1db439dae2b758ac45f4
+      internalID: -1232957552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_25
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 114
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fc3cdf0ae421444bb311718dd44bdd
+      internalID: -1989850246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_26
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 113
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643f2e8cfeac2784e9c1ee0dcdc76a0f
+      internalID: 23551755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_27
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 116
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09d99abad5abf34e88d41eb022cb022
+      internalID: 587494494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_28
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 117
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e3596771200ae4e92feb4ca7d58361
+      internalID: 1565622072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_30
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 116
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd68feeda06fcfa49a34fe2c0813917b
+      internalID: -1228071514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_31
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 116
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1b83cfa9ae3764cbd4a37f75349afd
+      internalID: -1757647816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 81
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3991d55f4eacf4e9351ade7995fe82
+      internalID: -2128772209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 80
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4d76f4bc2b8904e9dd2e96577e85a6
+      internalID: 886972263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_34
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 79
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a57154e748383946ac3958fcac95925
+      internalID: -1505200965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 82
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e028839b5ce1a1f4481e121691a81910
+      internalID: 784742190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_36
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 83
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1a2ddcd7da10f4ea4e5c28965fe73a
+      internalID: 788830481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_38
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 82
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6ed24d18737d2469b25939c136dd0c
+      internalID: 69649330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_39
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 82
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d9dfd817ea3c043a0b0aaa745f2001
+      internalID: 592984775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_40
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 20
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24060e5cbd10b6445a5239fc37ba8643
+      internalID: 1426569723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_41
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 19
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea6f43a2b6a01e48bea320056817436
+      internalID: 1039384464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_42
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 18
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8648fac90b3d5498b074dd2b685108
+      internalID: 1647263769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_43
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 21
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8125d4f03d6fa747bb7048dea3df3cc
+      internalID: 194169060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_44
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 22
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf6849e35acfe459e210753ffe27fc
+      internalID: 1421048316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_46
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 21
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09652f49a2a81af49ba5e26269172bb6
+      internalID: 1751379993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly recolor 6 color_47
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 21
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bddca56bbf02c64a8816948d4a8ecf0
+      internalID: -583188862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fly recolor 6 color_46: 1751379993
+      fly recolor 6 color_18: 2071980469
+      fly recolor 6 color_9: -382302409
+      fly recolor 6 color_16: -1867161785
+      fly recolor 6 color_27: 587494494
+      fly recolor 6 color_40: 1426569723
+      fly recolor 6 color_15: -1788207439
+      fly recolor 6 color_44: 1421048316
+      fly recolor 6 color_33: 886972263
+      fly recolor 6 color_6: -1345017929
+      fly recolor 6 color_0: -1109138358
+      fly recolor 6 color_41: 1039384464
+      fly recolor 6 color_24: -1232957552
+      fly recolor 6 color_28: 1565622072
+      fly recolor 6 color_8: -199642760
+      fly recolor 6 color_36: 788830481
+      fly recolor 6 color_30: -1228071514
+      fly recolor 6 color_35: 784742190
+      fly recolor 6 color_34: -1505200965
+      fly recolor 6 color_14: 588341733
+      fly recolor 6 color_10: 1105067948
+      fly recolor 6 color_3: -315164767
+      fly recolor 6 color_25: -1989850246
+      fly recolor 6 color_45: 846632500
+      fly recolor 6 color_29: -1330918082
+      fly recolor 6 color_31: -1757647816
+      fly recolor 6 color_47: -583188862
+      fly recolor 6 color_20: 969166077
+      fly recolor 6 color_37: 1617286427
+      fly recolor 6 color_2: -1636507529
+      fly recolor 6 color_4: 2054347938
+      fly recolor 6 color_32: -2128772209
+      fly recolor 6 color_19: 2103540846
+      fly recolor 6 color_39: 592984775
+      fly recolor 6 color_7: -424096504
+      fly recolor 6 color_23: 1109679857
+      fly recolor 6 color_13: 1353934965
+      fly recolor 6 color_11: -1892847945
+      fly recolor 6 color_26: 23551755
+      fly recolor 6 color_17: 1020039016
+      fly recolor 6 color_5: 2073915787
+      fly recolor 6 color_42: 1647263769
+      fly recolor 6 color_12: 1536052718
+      fly recolor 6 color_43: 194169060
+      fly recolor 6 color_1: 534514091
+      fly recolor 6 color_22: -122790463
+      fly recolor 6 color_38: 69649330
+      fly recolor 6 color_21: 1486970155
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

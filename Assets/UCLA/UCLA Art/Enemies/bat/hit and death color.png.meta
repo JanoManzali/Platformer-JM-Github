@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: 801462a4588dd754892cac0f48853f41
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hit and death color_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 607
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b258d4d91e59e7347bf32fb5956a17da
+      internalID: 227991444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 606
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e43142e00c033041a04c64c053318d7
+      internalID: -676216756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 606
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622f260223a7c7548a302a59ab607dc8
+      internalID: 178430478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 598
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb50f070feebef44b69d5e8741e4ef1
+      internalID: -1205135049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 587
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20adb86cee64dff4fa58ee328346d306
+      internalID: -400213257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 587
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9aa96114f1e3746910d4269b03fc4e
+      internalID: -749104546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 485
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5b2005cca2f9e4f98f3351de299df4
+      internalID: -1870671716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 484
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240d6c1db86eff642a8e0b553c4328a7
+      internalID: -1728921360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 484
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86fe7ae3b060ce4780b91732dd5ae7d
+      internalID: 2147257440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 475
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cb750bafa8d094ab5c6ecddcf490bb
+      internalID: 504054144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 464
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c701d0c6dc3344c93511357e7a4c13
+      internalID: 172929985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 465
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4a075bcaf472044a0346bb189b745a
+      internalID: 102410845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 369
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304c372aa7b97354694276dc62391242
+      internalID: 689176261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 368
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02f69a94b0e0af40a15e1860462fd67
+      internalID: -1679491790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 368
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2477d205d1d5194698c9dba1b4fbe08
+      internalID: -667310407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_39
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 359
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0078da98f52d7b45b64022e74861bfe
+      internalID: 56815132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 348
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda8619e46adea2459c539e94f6eb764
+      internalID: 88421485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_44
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 349
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b3e26e495ac0b478471bc9c67a39ff
+      internalID: -915182340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 267
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800b89ba7f8cdf14397d527ebf37a81c
+      internalID: 1811421947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 266
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f65a88e3e613fc4eb5ae9ba18c70f4a
+      internalID: -717446752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 266
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b959d06d57c85d45a59944f6cc21491
+      internalID: -1142311495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 257
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac419db1f6cf014ca01bbbd37a39a6a
+      internalID: 1906813464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_58
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 247
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e457ac5ba7051648b4ff1de7db417a7
+      internalID: -454200923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_59
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 247
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a72903c1067a7848aa9fa0ab2b625c9
+      internalID: 351866730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 144
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5650434ee45f8a9439cfc03d45e122e8
+      internalID: -149387740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 143
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ffc0d46e91f7649974494ba8f766a5
+      internalID: 332807525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 143
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1465a51c5e245478270ebde08f11e1
+      internalID: -1455026488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_69
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 134
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223aaa9cd5da9514d89da93033482168
+      internalID: -1170237683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_73
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 124
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a25f41fb1894240a8ac4eb7b8ba477
+      internalID: -1928669934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_74
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 124
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d638def4c210a4895805322e26eaee
+      internalID: 1194212774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 21
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a36859aceb32ea4d88db5e1dc5f8d6f
+      internalID: 1515707939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 20
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f0d722fe1062428a9ffe08331b4dc
+      internalID: -636118845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_77
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 20
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87959da652c37eb4c8eb51931e7868f2
+      internalID: 447682672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_84
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 11
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6bfe7f08aa0a74ba68e32d274ba332
+      internalID: -548873336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_88
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42f17efab16d9d449486d8371a323f2
+      internalID: -1205388699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit and death color_89
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2fdb51cf40c6d47a6bc61eb81cc7b5
+      internalID: 146782251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hit and death color_58: -454200923
+      hit and death color_77: 447682672
+      hit and death color_48: -1639034626
+      hit and death color_8: -120650109
+      hit and death color_54: 1906813464
+      hit and death color_84: -548873336
+      hit and death color_26: -785115705
+      hit and death color_69: -1170237683
+      hit and death color_51: 1865902781
+      hit and death color_79: -250500997
+      hit and death color_57: -309592816
+      hit and death color_37: 93359912
+      hit and death color_67: 863631862
+      hit and death color_46: -717446752
+      hit and death color_76: -636118845
+      hit and death color_52: 1620249382
+      hit and death color_39: 56815132
+      hit and death color_31: -1679491790
+      hit and death color_62: -1455026488
+      hit and death color_9: -1205135049
+      hit and death color_83: 150806398
+      hit and death color_28: 172929985
+      hit and death color_66: 1909792116
+      hit and death color_20: 387741975
+      hit and death color_22: -1932725766
+      hit and death color_74: 1194212774
+      hit and death color_13: -400213257
+      hit and death color_0: 227991444
+      hit and death color_75: 1515707939
+      hit and death color_7: -836412826
+      hit and death color_70: -510226443
+      hit and death color_27: 1391145897
+      hit and death color_3: 1828901954
+      hit and death color_41: -763342615
+      hit and death color_10: -145425236
+      hit and death color_81: 1759425875
+      hit and death color_64: 295206771
+      hit and death color_45: 1811421947
+      hit and death color_72: 1551354293
+      hit and death color_82: 806145222
+      hit and death color_42: -822544433
+      hit and death color_78: 443414727
+      hit and death color_50: -657031668
+      hit and death color_34: 226184899
+      hit and death color_63: 2053835707
+      hit and death color_24: 504054144
+      hit and death color_47: -1142311495
+      hit and death color_23: -96727491
+      hit and death color_17: 2147257440
+      hit and death color_6: 811407297
+      hit and death color_2: 178430478
+      hit and death color_18: -1055323073
+      hit and death color_25: -1480248578
+      hit and death color_30: 689176261
+      hit and death color_87: 2073011516
+      hit and death color_89: 146782251
+      hit and death color_44: -915182340
+      hit and death color_19: -15277213
+      hit and death color_16: -1728921360
+      hit and death color_61: 332807525
+      hit and death color_56: 1024745715
+      hit and death color_21: 1181948623
+      hit and death color_59: 351866730
+      hit and death color_14: -749104546
+      hit and death color_68: 588540662
+      hit and death color_29: 102410845
+      hit and death color_40: 117150319
+      hit and death color_15: -1870671716
+      hit and death color_85: 585098077
+      hit and death color_33: 709554761
+      hit and death color_11: 1019935691
+      hit and death color_38: -624433089
+      hit and death color_43: 88421485
+      hit and death color_4: -1157989319
+      hit and death color_35: 100776110
+      hit and death color_55: -47460399
+      hit and death color_73: -1928669934
+      hit and death color_49: 1227092897
+      hit and death color_65: 1406440051
+      hit and death color_1: -676216756
+      hit and death color_80: 35581282
+      hit and death color_5: -674127376
+      hit and death color_36: 2060475336
+      hit and death color_88: -1205388699
+      hit and death color_12: -358868215
+      hit and death color_53: 319192465
+      hit and death color_60: -149387740
+      hit and death color_71: -536499931
+      hit and death color_86: 154863209
+      hit and death color_32: -667310407
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
