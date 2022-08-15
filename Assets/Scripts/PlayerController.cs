@@ -23,6 +23,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float hurtforce = 10f;
     public int Scorenum;
     public TMP_Text ScoreText;
+    private bool isGrounded = false;
+    [SerializeField] Transform groundCheckCollider;
 
     //Audio
     private AudioSource footsfx;

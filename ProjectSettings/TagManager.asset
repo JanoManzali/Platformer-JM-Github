@@ -16,8 +16,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - parallax
+  - Player
   - Ground
   - 
   - 
@@ -46,21 +46,24 @@ TagManager:
   - name: Background
     uniqueID: 3207909483
     locked: 0
-  - name: Cherries
-    uniqueID: 1787436613
-    locked: 0
   - name: Middleground
     uniqueID: 1499003171
     locked: 0
+  - name: Cherries
+    uniqueID: 1787436613
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
   - name: Trap
     uniqueID: 1065462825
+    locked: 0
+  - name: Secret Passage
+    uniqueID: 3638275883
     locked: 0
   - name: player
     uniqueID: 3341221485
     locked: 0
   - name: Foreground
     uniqueID: 3023627739
-    locked: 0
-  - name: Default
-    uniqueID: 0
     locked: 0

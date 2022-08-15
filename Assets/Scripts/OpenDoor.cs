@@ -49,7 +49,7 @@ public class OpenDoor : MonoBehaviour
     IEnumerator opensound()
     {
         DoorOpen.Play();
-        yield return new WaitForSeconds(0.3f);
+        yield return new WaitForSeconds(0.2f);
         SceneManager.LoadScene(sceneName);
     }
 
